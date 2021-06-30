@@ -1,0 +1,2 @@
+logic for loading for comments 
+where ('id' < 81)->orderBy('id', desc)->limit(1)
